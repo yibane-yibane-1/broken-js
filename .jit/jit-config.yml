@@ -1,7 +1,0 @@
-applications:
-- api_domain: www.mashu.com
-  application_name: dsadsa
-  authentication_mode: non-authenticated
-  exclude_paths: []
-  target_url: https://www.mashu.json
-  type: api
